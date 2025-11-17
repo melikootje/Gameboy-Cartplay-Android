@@ -68,7 +68,7 @@ The following USB cartridge readers are compatible:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/melikootje/Gameboy-Cartplay-Android.git 
    cd Gameboy_Cartplay_Android
    ```
 
