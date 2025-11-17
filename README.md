@@ -1,6 +1,6 @@
 # Gameboy Cartplay
 
-A modern Android app for managing Game Boy and Game Boy Advance cartridges with direct emulator integration.
+A modern Android app for managing Game Boy and Game Boy Advance cartridges with direct emulator integration. This project is partially vibecoded by the means of AI.
 
 ## Overview
 
