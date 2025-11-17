@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gameboy Cartplay</string>
+    <string name="usb_permission_request">USB Permission Required</string>
+    <string name="usb_permission_message">This app needs permission to access the cartridge reader device via USB.</string>
+    <string name="device_not_found">Compatible cartridge reader not found</string>
+    <string name="device_connected">Cartridge reader connected</string>
+    <string name="device_disconnected">Cartridge reader disconnected</string>
+    <string name="cartridge_detected">Cartridge detected: %s</string>
+    <string name="no_cartridge">No cartridge inserted</string>
+    <string name="rom_dump_success">ROM dumped successfully</string>
+    <string name="rom_dump_failed">Failed to dump ROM</string>
+    <string name="save_backup_success">Save data backed up</string>
+    <string name="save_backup_failed">Failed to backup save data</string>
+    <string name="save_restore_success">Save data restored</string>
+    <string name="save_restore_failed">Failed to restore save data</string>
+    <string name="emulator_launch_failed">Failed to launch emulator</string>
+    <string name="emulator_not_installed">Emulator not installed</string>
+    <string name="operation_in_progress">Operation in progress...</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="detect_cartridge">Detect Cartridge</string>
+    <string name="dump_rom">Dump ROM</string>
+    <string name="backup_save">Backup Save</string>
+    <string name="restore_save">Restore Save</string>
+    <string name="launch_emulator">Launch %s</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="version">Version %s</string>
+    <string name="progress_reading">Reading cartridge...</string>
+    <string name="progress_dumping">Dumping ROM: %d%%</string>
+    <string name="progress_backing_up">Backing up save: %d%%</string>
+    <string name="progress_restoring">Restoring save: %d%%</string>
+</resources>

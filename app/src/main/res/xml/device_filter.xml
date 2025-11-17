@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GBxCart RW device filter (CH340/CH341 chipset) -->
+    <usb-device vendor-id="6790" product-id="29987" />  <!-- CH340 -->
+    <usb-device vendor-id="6790" product-id="29986" />  <!-- CH341 -->
+    <!-- GBFlash device filter (simulates CH340) -->
+    <usb-device vendor-id="6790" product-id="29987" />  <!-- GBFlash as CH340 -->
+    <!-- Add other compatible FlashGBX devices -->
+</resources>

@@ -1,0 +1,18 @@
+// File: /Users/luna/Documents/todo_app/GBA_Operator_Plugin/settings.gradle
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()        }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "GBA_Operator_Plugin"
+include ':app'
+    

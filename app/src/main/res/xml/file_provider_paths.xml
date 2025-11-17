@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <files-path name="roms" path="roms/" />
+    <files-path name="saves" path="saves/" />
+    <external-files-path name="external_roms" path="roms/" />
+    <external-files-path name="external_saves" path="saves/" />
+</resources>

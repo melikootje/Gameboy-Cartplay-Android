@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="external_files" path="." />
+adb install -r app/build/outputs/apk/debug/app-debug.apk    <cache-path name="cache" path="." />
+</paths>
