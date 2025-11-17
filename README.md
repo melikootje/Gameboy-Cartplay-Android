@@ -84,7 +84,7 @@ The following USB cartridge readers are compatible:
 
 ### Direct Installation
 
-Pre-built APKs are available in the releases section.
+Pre-built APKs available under the release tab of this repo but be aware that its currently impossible to manually install the app on a device by package installer directly from android due to a lot of bugs and errors while trying to install it that way. The only working method to install this app is through adb install at the very moment.
 
 ## Usage
 
