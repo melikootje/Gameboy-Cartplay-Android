@@ -2,6 +2,12 @@
 
 A modern Android app for managing Game Boy and Game Boy Advance cartridges with direct emulator integration. This project is partially vibecoded by the means of AI.
 
+**<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b0b7263c-1c9d-4208-9f57-cd9b9b6a27da" />
+**
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b1a2b3ae-5aba-41d7-9f86-f9870bd14dc3" />
+
+
+
 ## Overview
 
 Gameboy Cartplay is a native Android application that bridges physical GB/GBC/GBA cartridge readers with popular Android emulators. Dump ROMs, backup saves, and launch games directly in your favorite emulator—all from one app.
