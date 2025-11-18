@@ -2,8 +2,8 @@
 
 A modern Android app for managing Game Boy and Game Boy Advance cartridges with direct emulator integration. This project is partially vibecoded by the means of AI.
 
-**<img width="395" height="630" alt="image" src="https://github.com/user-attachments/assets/b0b7263c-1c9d-4208-9f57-cd9b9b6a27da" />
-**
+<img width="395" height="630" alt="image" src="https://github.com/user-attachments/assets/b0b7263c-1c9d-4208-9f57-cd9b9b6a27da" />
+
 <img width="395" height="630" alt="image" src="https://github.com/user-attachments/assets/b1a2b3ae-5aba-41d7-9f86-f9870bd14dc3" />
 
 
